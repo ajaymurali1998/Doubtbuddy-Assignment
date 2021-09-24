@@ -1,6 +1,6 @@
 # Doubtbuddy-Assignment
 
-Created a model to recognie the mood and sentiment of the given text. 
+Created a model to recognize the mood and sentiment of the given text. 
 I used Bidirectional Lstm model and have achieved accuracy of 85% on the test data.
 Below i have given both colab notebook and model link:
 
